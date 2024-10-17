@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\gui\\assigncoursesform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\assigncoursesform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\dal\\utilitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:dal\\utilitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\dal\\teacherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:dal\\teacherdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\dal\\teachercoursedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:dal\\teachercoursedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\dal\\coursedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:dal\\coursedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\gui\\assigncoursesform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\assigncoursesform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\gui\\listcoursesbyteacherform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\listcoursesbyteacherform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\gui\\listteachersbycourseform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\listteachersbycourseform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\gui\\assigncoursesform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\assigncoursesform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\validation\\coursevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:validation\\coursevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\bll\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:bll\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\bll\\courseassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:bll\\courseassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\bll\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:bll\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\Desktop\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\gui\\listcoursesbyteacherform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\listcoursesbyteacherform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\gui\\listteachersbycourseform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\listteachersbycourseform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\gui\\listcoursesbyteacherform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\listcoursesbyteacherform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|c:\\users\\moham\\desktop\\midterm web application\\smti teacher-course management\\gui\\listteachersbycourseform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:gui\\listteachersbycourseform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BD998B4-4A59-4314-B3A6-27AA6DFA45E0}|SMTI Teacher-Course Management.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\notes.txt",
+              "RelativeDocumentMoniker": "notes.txt",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\notes.txt",
+              "RelativeToolTip": "notes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-16T14:25:37.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\notes.txt",
+              "RelativeDocumentMoniker": "..\\..\\notes.txt",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\notes.txt*",
+              "RelativeToolTip": "..\\..\\notes.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-16T14:25:18.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListCoursesByTeacherForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListCoursesByTeacherForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "GUI\\ListCoursesByTeacherForm.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListCoursesByTeacherForm.aspx.designer.cs",
+              "RelativeToolTip": "GUI\\ListCoursesByTeacherForm.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:50:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListTeachersByCourseForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListTeachersByCourseForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "GUI\\ListTeachersByCourseForm.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListTeachersByCourseForm.aspx.designer.cs",
+              "RelativeToolTip": "GUI\\ListTeachersByCourseForm.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:14:02.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseValidation.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\VALIDATION\\CourseValidation.cs",
+              "RelativeDocumentMoniker": "VALIDATION\\CourseValidation.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\VALIDATION\\CourseValidation.cs*",
+              "RelativeToolTip": "VALIDATION\\CourseValidation.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:55:06.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListTeachersByCourseForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListTeachersByCourseForm.aspx.cs",
+              "RelativeDocumentMoniker": "GUI\\ListTeachersByCourseForm.aspx.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListTeachersByCourseForm.aspx.cs*",
+              "RelativeToolTip": "GUI\\ListTeachersByCourseForm.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:31:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListCoursesByTeacherForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListCoursesByTeacherForm.aspx.cs",
+              "RelativeDocumentMoniker": "GUI\\ListCoursesByTeacherForm.aspx.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListCoursesByTeacherForm.aspx.cs*",
+              "RelativeToolTip": "GUI\\ListCoursesByTeacherForm.aspx.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:27:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssignCoursesForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\AssignCoursesForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "GUI\\AssignCoursesForm.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\AssignCoursesForm.aspx.designer.cs",
+              "RelativeToolTip": "GUI\\AssignCoursesForm.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:19:36.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssignCoursesForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\AssignCoursesForm.aspx.cs",
+              "RelativeDocumentMoniker": "GUI\\AssignCoursesForm.aspx.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\AssignCoursesForm.aspx.cs*",
+              "RelativeToolTip": "GUI\\AssignCoursesForm.aspx.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:50:01.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignCoursesForm.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\AssignCoursesForm.aspx",
+              "RelativeDocumentMoniker": "GUI\\AssignCoursesForm.aspx",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\AssignCoursesForm.aspx",
+              "RelativeToolTip": "GUI\\AssignCoursesForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-16T12:49:36.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListTeachersByCourseForm.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListTeachersByCourseForm.aspx",
+              "RelativeDocumentMoniker": "GUI\\ListTeachersByCourseForm.aspx",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListTeachersByCourseForm.aspx",
+              "RelativeToolTip": "GUI\\ListTeachersByCourseForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-16T12:39:28.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListCoursesByTeacherForm.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListCoursesByTeacherForm.aspx",
+              "RelativeDocumentMoniker": "GUI\\ListCoursesByTeacherForm.aspx",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\GUI\\ListCoursesByTeacherForm.aspx",
+              "RelativeToolTip": "GUI\\ListCoursesByTeacherForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-16T12:38:39.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherCourseDB.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\TeacherCourseDB.cs",
+              "RelativeDocumentMoniker": "DAL\\TeacherCourseDB.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\TeacherCourseDB.cs*",
+              "RelativeToolTip": "DAL\\TeacherCourseDB.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:27:04.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseDB.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\CourseDB.cs",
+              "RelativeDocumentMoniker": "DAL\\CourseDB.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\CourseDB.cs*",
+              "RelativeToolTip": "DAL\\CourseDB.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:26:33.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDB.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\TeacherDB.cs",
+              "RelativeDocumentMoniker": "DAL\\TeacherDB.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\TeacherDB.cs*",
+              "RelativeToolTip": "DAL\\TeacherDB.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:26:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilityDB.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\UtilityDB.cs",
+              "RelativeDocumentMoniker": "DAL\\UtilityDB.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\DAL\\UtilityDB.cs",
+              "RelativeToolTip": "DAL\\UtilityDB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:25:16.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-16T12:23:44.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\BLL\\CourseAssignment.cs",
+              "RelativeDocumentMoniker": "BLL\\CourseAssignment.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\BLL\\CourseAssignment.cs*",
+              "RelativeToolTip": "BLL\\CourseAssignment.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:21:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\BLL\\Course.cs",
+              "RelativeDocumentMoniker": "BLL\\Course.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\BLL\\Course.cs*",
+              "RelativeToolTip": "BLL\\Course.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:21:07.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\BLL\\Teacher.cs",
+              "RelativeDocumentMoniker": "BLL\\Teacher.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\Midterm Web Application\\SMTI Teacher-Course Management\\BLL\\Teacher.cs*",
+              "RelativeToolTip": "BLL\\Teacher.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:20:53.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
